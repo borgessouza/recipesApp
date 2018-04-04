@@ -6,5 +6,6 @@ import javax.persistence.Entity;
 public class Recipes {
 
     private String description;
+    private Integer cookTime;
 
 }
