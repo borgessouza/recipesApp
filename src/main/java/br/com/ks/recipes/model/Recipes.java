@@ -5,4 +5,6 @@ import javax.persistence.Entity;
 @Entity
 public class Recipes {
 
+    private String description;
+
 }
